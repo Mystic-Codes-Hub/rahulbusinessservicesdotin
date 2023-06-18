@@ -1,8 +1,10 @@
 .P{
     align-content: center;
+    text-align: center;
 }
 
-.h{
+.h6{
     align-content: end;
+    align-items: end;
     padding: 10%;
 }
