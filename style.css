@@ -1,14 +1,14 @@
-.P{
+P{
     align-content: center;
     text-align: center;
 }
 
-.h6{
+h6{
     align-content: end;
     align-items: end;
     padding: 10%;
 }
 
 p{
-    background-color: blanchedalmond;
+    background-color: rgb(228, 181, 110);
 }
