@@ -1,14 +1,8 @@
-P{
-    align-content: center;
+
+
+.RBS_Style{
+    font-size: large;
+    color: rgb(182, 119, 42);
+    background-color: black;
     text-align: center;
-}
-
-h6{
-    align-content: end;
-    align-items: end;
-    padding: 10%;
-}
-
-p{
-    background-color: rgb(228, 181, 110);
 }
